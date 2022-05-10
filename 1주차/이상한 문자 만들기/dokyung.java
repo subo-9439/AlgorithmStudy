@@ -1,6 +1,7 @@
 class dokyung {
     public String solution(String s) {
         String answer = "";
+
         String[] split = s.split(" ",-1);
 
         for (int i = 0; i < split.length; i++) {
