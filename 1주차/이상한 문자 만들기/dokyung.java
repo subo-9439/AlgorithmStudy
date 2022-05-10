@@ -15,6 +15,6 @@ class dokyung {
             answer += " ";
         }
 
-        return answer.trim();
+        return answer.substring(0, answer.length() - 1);
     }
 }
