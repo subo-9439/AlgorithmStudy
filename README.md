@@ -30,8 +30,8 @@
 > SEB_BE_39_김아인<br/>
 > SEB_BE_39_김주하<br/>
 > SEB_BE_39_박정수<br/>
-> SEB_BE_39_안형준<br/>
 > SEB_BE_39_이소희<br/>
+> SEB_BE_39_이현종<br/>
 > SEB_BE_39_최광일<br/>
 > SEB_BE_39_최영민<br/>
 
@@ -67,10 +67,12 @@
 
 ## Pull Request(PR) 규칙
 > <한문제씩 보낼 때> <br/>
-> <PR 제목>: [주차] 문제명 `사용언어라벨` `문제출처라벨` <br/>
+> <PR 제목>: [주차] <이름> 문제명 <br/>
+ex) [1주차] <홍길동> 다이얼 <br/><br/>
 > <세문제를 한번에 보낼 때> <br/>
-> <PR 제목>: [주차] 3문제`사용언어라벨` `문제출처라벨` <br/> <br/>
-> <PR 본문></PR><br/>
+> <PR 제목>: [주차] <이름> 3문제 <br/>
+ex) [1주차] <홍길동> 3문제 <br/><br/>
+<PR 본문><br/>
 > 해당 문제를 풀면서 든 생각 또는 간단한 로직 설명을 해주시면 됩니다.<br/>
 > 로직 설명은 코드 내 주석으로 작성하셔도 무방합니다. <br/>
 > ※ 규칙을 정해보는건 처음이라 앞으로 조절해가면서 할 것이니 크게 걱정안하셔도 됩니다.
@@ -104,5 +106,6 @@
 
 |주차|문제|기간|체크|
 |--|---|---|---|
-|1주차|[이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)<img src="https://img.shields.io/badge/Lv.1-4caf50?"/></a> , [다이얼](https://www.acmicpc.net/problem/5622)<img src="https://img.shields.io/badge/B2-ad5600?"/></a>, [수 정렬하기 2](https://www.acmicpc.net/problem/2751)<img src="https://img.shields.io/badge/S2-435f7a?"/></a>|05/09 ~ 05/15|<img src="https://img.shields.io/badge/진행중-808080?"/></a>
-|2주차|미정|미정|미정
+|1주차|[이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)<img src="https://img.shields.io/badge/Lv.1-4caf50?"/></a> , [다이얼](https://www.acmicpc.net/problem/5622)<img src="https://img.shields.io/badge/B2-ad5600?"/></a>, [수 정렬하기 2](https://www.acmicpc.net/problem/2751)<img src="https://img.shields.io/badge/S2-435f7a?"/></a>|05/09 ~ 05/15|<img src="https://img.shields.io/badge/완료-50bcdf?"/></a>
+|2주차|[대회 or 인턴](https://www.acmicpc.net/problem/2875)<img src="https://img.shields.io/badge/B3-ad5600?"></a> , [병든 나이트](https://www.acmicpc.net/problem/1783)<img src="https://img.shields.io/badge/S4-435f7a?"/></a>, [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)<img src="https://img.shields.io/badge/Lv.2-ffc107?"/></a>|05/16 ~ 05/22|<img src="https://img.shields.io/badge/진행중-808080?"/></a>
+|3주차|미정|미정|미정
