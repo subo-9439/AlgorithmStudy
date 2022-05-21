@@ -29,8 +29,10 @@
 > SEB_BE_39_김수보<br/>
 > SEB_BE_39_김아인<br/>
 > SEB_BE_39_김주하<br/>
+> SEB_BE_39_나여주<br/>
 > SEB_BE_39_박정수<br/>
 > SEB_BE_39_이소희<br/>
+> SEB_BE_39_이지언<br/>
 > SEB_BE_39_이현종<br/>
 > SEB_BE_39_최광일<br/>
 > SEB_BE_39_최영민<br/>
