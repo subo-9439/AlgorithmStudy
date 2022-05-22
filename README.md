@@ -109,5 +109,6 @@ ex) [1주차] <홍길동> 3문제 <br/><br/>
 |주차|문제|기간|체크|
 |--|---|---|---|
 |1주차|[이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)<img src="https://img.shields.io/badge/Lv.1-4caf50?"/></a> , [다이얼](https://www.acmicpc.net/problem/5622)<img src="https://img.shields.io/badge/B2-ad5600?"/></a>, [수 정렬하기 2](https://www.acmicpc.net/problem/2751)<img src="https://img.shields.io/badge/S2-435f7a?"/></a>|05/09 ~ 05/15|<img src="https://img.shields.io/badge/완료-50bcdf?"/></a>
-|2주차|[대회 or 인턴](https://www.acmicpc.net/problem/2875)<img src="https://img.shields.io/badge/B3-ad5600?"></a> , [병든 나이트](https://www.acmicpc.net/problem/1783)<img src="https://img.shields.io/badge/S4-435f7a?"/></a>, [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)<img src="https://img.shields.io/badge/Lv.2-ffc107?"/></a>|05/16 ~ 05/22|<img src="https://img.shields.io/badge/진행중-808080?"/></a>
-|3주차|미정|미정|미정
+|2주차|[대회 or 인턴](https://www.acmicpc.net/problem/2875)<img src="https://img.shields.io/badge/B3-ad5600?"></a> , [병든 나이트](https://www.acmicpc.net/problem/1783)<img src="https://img.shields.io/badge/S4-435f7a?"/></a>, [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)<img src="https://img.shields.io/badge/Lv.2-ffc107?"/></a>|05/16 ~ 05/22|<img src="https://img.shields.io/badge/완료-50bcdf?"/></a>
+|3주차|[방 번호](https://www.acmicpc.net/problem/1475)<img src="https://img.shields.io/badge/S5-435f7a?"></a> , [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)<img src="https://img.shields.io/badge/S5-435f7a?"></a>, [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)<img src="https://img.shields.io/badge/Lv.2-ffc107?"> |05/23 ~ 05/29|<img src="https://img.shields.io/badge/진행중-808080?"/></a>|미정|미정
+|4주차|미정|미정|미정
