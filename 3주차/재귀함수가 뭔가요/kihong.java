@@ -8,6 +8,13 @@ public class Main{
         makeString(0,num);
 
     }
+    /*
+    print를 진행합니다
+    1. underbar의 개수를 depth가 올라갈 수록 증가시킵니다.
+    2. 종료 조건 : depth와 num이 같아질 때
+    3. 해당되는 출력값을 출력
+    4. 재귀를 실행 depth의 값은 1증가 시킵니다.
+     */
     public static String makeString(int depth, int num){
         String underBar="";
         for(int i =0; i<depth; i++ ){
