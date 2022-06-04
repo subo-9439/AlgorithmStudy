@@ -24,8 +24,8 @@ public class Main {
         makeList(0,stack);
         int sum = 0;
         int cnt = 0;
+        //부분수열의 합을 계산 후 같다면 count 증가
         for(int i= 0; i<ilist.size(); i++){
-            System.out.println(Arrays.toString(ilist.get(i)));
             for(int inum : ilist.get(i)){
                 sum+=inum;
             }
@@ -34,6 +34,9 @@ public class Main {
         }
         System.out.println(cnt);
     }
+    /*
+    부분수열을 만드는 함수 (멱함수 만드는 법과 동일)
+     */
     public static void makeList(int idx, Stack<Integer> stack) {
         if (idx >= iarr.length) {
             Integer[] arr =  stack.toArray(new Integer[0]);

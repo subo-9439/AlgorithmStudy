@@ -19,6 +19,9 @@ public class Main {
         bw.flush();
         bw.close();
     }
+    /*
+    1.종료조건 : depth와 length와 같아졌을 때, iarr에 있는 문자를 다 버퍼고 한줄 내린다.
+     */
     public static void dfs(int depth, int idx, BufferedWriter bw) throws IOException {
         if(depth==length){
             for(int i = idx; i<=num; i++){
@@ -29,6 +32,7 @@ public class Main {
                 bw.newLine();
             }
         }else{
+            //조합과 같은 형태이다.
             for(int i =idx; i<=num; i++){
                 iarr[depth-1]=i;
                 dfs(depth+1,i+1, bw);
