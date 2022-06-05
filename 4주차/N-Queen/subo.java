@@ -25,7 +25,10 @@ public class subo {
       for (int col = 0; col < N; col++){    //각 열에 대해 검증을 한다.
           boolean possible = true;
           for (int r = 0; r < row; r++){  //그전 퀸 중에 공격가능한 퀸이 있으면 안된다.
-              if(attack(r,queen[r], row, col))  possible = false;
+            if(attack(r,queen[r], row, col))  {
+            possible = false;
+            break;
+            }
           }
 
 
