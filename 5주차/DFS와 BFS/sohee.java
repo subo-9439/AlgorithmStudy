@@ -36,7 +36,7 @@ public class Main {
             Collections.sort(connectList[i]);
         }
 
-        // dfs(스택)과 bfs(큐) 실행
+        // dfs(스택)과 bfsg(큐) 실행
         dfs();
         sb.append("\n");
         bfs();
