@@ -37,4 +37,4 @@ out/
 .vscode/
 
 ## 폴더
---.gitkeep
+!**/**/.gitkeep
