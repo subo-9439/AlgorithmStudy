@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-public class Week4_2 {
+public class Nick {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

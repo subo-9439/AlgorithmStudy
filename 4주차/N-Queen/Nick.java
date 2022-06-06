@@ -2,7 +2,7 @@ package mogacko.week4;
 
 import java.util.Scanner;
 
-public class Week4_1 {
+public class Nick {
 
     private static int count = 0;
     private static int n = 0;

@@ -2,7 +2,7 @@ package mogacko.week4;
 
 import java.util.Scanner;
 
-public class Week4_3 {
+public class Nick {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
