@@ -26,6 +26,7 @@
 ## 🙋‍♂️ 참가인원 🙋‍♀️
 
 > SEB_BE_39_강도경<br/>
+> SEB_BE_39_김기홍<br/>
 > SEB_BE_39_김수보<br/>
 > SEB_BE_39_김아인<br/>
 > SEB_BE_39_김주하<br/>
@@ -108,7 +109,9 @@ ex) [1주차] <홍길동> 3문제 <br/><br/>
 
 |주차|문제|기간|체크|
 |--|---|---|---|
-|1주차|[이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)<img src="https://img.shields.io/badge/Lv.1-4caf50?"/></a> , [다이얼](https://www.acmicpc.net/problem/5622)<img src="https://img.shields.io/badge/B2-ad5600?"/></a>, [수 정렬하기 2](https://www.acmicpc.net/problem/2751)<img src="https://img.shields.io/badge/S2-435f7a?"/></a>|05/09 ~ 05/15|<img src="https://img.shields.io/badge/완료-50bcdf?"/></a>
-|2주차|[대회 or 인턴](https://www.acmicpc.net/problem/2875)<img src="https://img.shields.io/badge/B3-ad5600?"></a> , [병든 나이트](https://www.acmicpc.net/problem/1783)<img src="https://img.shields.io/badge/S4-435f7a?"/></a>, [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)<img src="https://img.shields.io/badge/Lv.2-ffc107?"/></a>|05/16 ~ 05/22|<img src="https://img.shields.io/badge/완료-50bcdf?"/></a>
-|3주차|[방 번호](https://www.acmicpc.net/problem/1475)<img src="https://img.shields.io/badge/S5-435f7a?"></a> , [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)<img src="https://img.shields.io/badge/S5-435f7a?"></a>, [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)<img src="https://img.shields.io/badge/Lv.2-ffc107?"> |05/23 ~ 05/29|<img src="https://img.shields.io/badge/진행중-808080?"/></a>|미정|미정
-|4주차|미정|미정|미정
+|1주차|[이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)<img src="https://img.shields.io/badge/Lv.1-4caf50?"/>, [다이얼](https://www.acmicpc.net/problem/5622)<img src="https://img.shields.io/badge/B2-ad5600?"/>, [수 정렬하기 2](https://www.acmicpc.net/problem/2751)<img src="https://img.shields.io/badge/S2-435f7a?"/>|05/09 ~ 05/15|<img src="https://img.shields.io/badge/완료-50bcdf?"/>
+|2주차|[대회 or 인턴](https://www.acmicpc.net/problem/2875)<img src="https://img.shields.io/badge/B3-ad5600?"> , [병든 나이트](https://www.acmicpc.net/problem/1783)<img src="https://img.shields.io/badge/S4-435f7a?"/>, [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)<img src="https://img.shields.io/badge/Lv.2-ffc107?"/>|05/16 ~ 05/22|<img src="https://img.shields.io/badge/완료-50bcdf?"/>
+|3주차|[방 번호](https://www.acmicpc.net/problem/1475)<img src="https://img.shields.io/badge/S5-435f7a?"> , [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)<img src="https://img.shields.io/badge/S5-435f7a?">, [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)<img src="https://img.shields.io/badge/Lv.2-ffc107?"> |05/23 ~ 05/29|<img src="https://img.shields.io/badge/완료-50bcdf?"/>
+|4주차|[N과 M (2)](https://www.acmicpc.net/problem/15650)<img src="https://img.shields.io/badge/S3-435f7a?">,  [부분수열의 합](https://www.acmicpc.net/problem/1182)<img src="https://img.shields.io/badge/S2-435f7a?">, [N-Queen](https://www.acmicpc.net/problem/9663)<img src="https://img.shields.io/badge/G5-ec9a00?"/> |05/30 ~ 06/05|<img src="https://img.shields.io/badge/완료-50bcdf?"/>
+|5주차|[DFS와 BFS](https://www.acmicpc.net/problem/1260)<img src="https://img.shields.io/badge/S2-435f7a?">, [미로 탐색](https://www.acmicpc.net/problem/2178)<img src="https://img.shields.io/badge/S1-435f7a?">, [단어변환](https://programmers.co.kr/learn/courses/30/lessons/43163)<img src="https://img.shields.io/badge/Lv.3-ff9800?"/>  |06/06 ~ 06/12|<img src="https://img.shields.io/badge/진행중-808080?"/>
+|6주차|미정|미정|미정|
