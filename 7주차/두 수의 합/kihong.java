@@ -14,8 +14,9 @@ public class Main {
         }
         int x = Integer.parseInt(br.readLine());
         Arrays.sort(arr);
-        int one = 0;
-        int two = 1;
+        //정렬 후 양 끝점에서 모이도록
+        //투포인터는 두 가지 방식을 이용한다.
+        //1. 중간에서 만나는 포인터 or 2. slower and faster
         int cnt = 0;
         for(int i =0; i<n; i++){
             for(int j =n-1; j>i; j--){
