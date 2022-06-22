@@ -16,11 +16,11 @@ public class Main {
         for(int i =0; i<x;i++){
             arr[i]=Integer.parseInt(st.nextToken());
         }
-        int max=0;
-        int cnt=1;
-        int one=0;
-        int two=n-1;
-        int sum=0;
+        int max=0; // 가장 누적 방문자가 많았을 때의 누적방문자 수
+        int cnt=1; // max가 같은날 카운트
+        int one=0; // 시작
+        int two=n-1; // 기간 n-1
+        int sum=0; // 단위 기간동안 누적 방문자 수
         for(int i = one; i<=two; i++){
             sum+=arr[i];
         }
