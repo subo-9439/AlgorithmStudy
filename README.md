@@ -9,14 +9,10 @@
 ## 	📄출제 사이트와 문제 난이도
 
 > 프로그래머스 
-> - <img src="https://img.shields.io/badge/Lv.1-4caf50?"/>
-<img src="https://img.shields.io/badge/Lv.2-ffc107?"/>
-<img src="https://img.shields.io/badge/Lv.3-ff9800?"/>
->
+> - <img src="https://img.shields.io/badge/Lv.1-4caf50?"/> <img src="https://img.shields.io/badge/Lv.2-ffc107?"/> <img src="https://img.shields.io/badge/Lv.3-ff9800?"/>
+
 > 백준
-> - <img src="https://img.shields.io/badge/B2-ad5600?"/>
-<img src="https://img.shields.io/badge/S2-435f7a?"/>
-<img src="https://img.shields.io/badge/G3-ec9a00?"/>
+> - <img src="https://img.shields.io/badge/B2-ad5600?"/> <img src="https://img.shields.io/badge/S2-435f7a?"/> <img src="https://img.shields.io/badge/G3-ec9a00?"/>
 
 
 ---
