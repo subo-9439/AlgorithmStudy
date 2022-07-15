@@ -9,14 +9,10 @@
 ## 	📄출제 사이트와 문제 난이도
 
 > 프로그래머스 
-> - <img src="https://img.shields.io/badge/Lv.1-4caf50?"/></a>
-<img src="https://img.shields.io/badge/Lv.2-ffc107?"/></a>
-<img src="https://img.shields.io/badge/Lv.3-ff9800?"/></a>
->
+> - <img src="https://img.shields.io/badge/Lv.1-4caf50?"/> <img src="https://img.shields.io/badge/Lv.2-ffc107?"/> <img src="https://img.shields.io/badge/Lv.3-ff9800?"/>
+
 > 백준
-> - <img src="https://img.shields.io/badge/B2-ad5600?"/></a>
-<img src="https://img.shields.io/badge/S2-435f7a?"/></a>
-<img src="https://img.shields.io/badge/G3-ec9a00?"/></a>
+> - <img src="https://img.shields.io/badge/B2-ad5600?"/> <img src="https://img.shields.io/badge/S2-435f7a?"/> <img src="https://img.shields.io/badge/G3-ec9a00?"/>
 
 
 ---
@@ -113,6 +109,7 @@ ex) [1주차] <홍길동> 3문제 <br/><br/>
 |5주차|[DFS와 BFS](https://www.acmicpc.net/problem/1260)<img src="https://img.shields.io/badge/S2-435f7a?">, [미로 탐색](https://www.acmicpc.net/problem/2178)<img src="https://img.shields.io/badge/S1-435f7a?">, [단어변환](https://programmers.co.kr/learn/courses/30/lessons/43163)<img src="https://img.shields.io/badge/Lv.3-ff9800?"/>  |06/06 ~ 06/12|<img src="https://img.shields.io/badge/완료-50bcdf?"/>
 |6주차|[달팽이](https://www.acmicpc.net/problem/1913)<img src="https://img.shields.io/badge/S3-435f7a?">, [나무 자르기](https://www.acmicpc.net/problem/2805)<img src="https://img.shields.io/badge/S2-435f7a?">, [공유기 설치](https://www.acmicpc.net/problem/2110)<img src="https://img.shields.io/badge/G5-ec9a00?"/>|06/13 ~ 06/19|<img src="https://img.shields.io/badge/완료-50bcdf?"/>
 |7주차|[두 수의 합](https://www.acmicpc.net/problem/3273)<img src="https://img.shields.io/badge/S3-435f7a?">, [블로그](https://www.acmicpc.net/problem/21921)<img src="https://img.shields.io/badge/S3-435f7a?">, [구간 합 구하기 5](https://www.acmicpc.net/problem/11660)<img src="https://img.shields.io/badge/S1-435f7a?"/>|06/20 ~ 06/26|<img src="https://img.shields.io/badge/완료-50bcdf?"/>
-|8주차|[트리의 부모 찾기](https://www.acmicpc.net/problem/11725)<img src="https://img.shields.io/badge/S2-435f7a?">, [완전 이진 트리](https://www.acmicpc.net/problem/9934)<img src="https://img.shields.io/badge/S1-435f7a?">, [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)<img src="https://img.shields.io/badge/Lv.3-ff9800?"/>|06/27 ~ 07/03|<img src="https://img.shields.io/badge/진행중-808080?"/>
-|9주차| [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)<img src="https://img.shields.io/badge/Lv.1-4caf50?"/>| [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)<img src="https://img.shields.io/badge/Lv.1-4caf50?"/>| [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)<img src="https://img.shields.io/badge/Lv.1-4caf50?"/>|
-|10주차|미정|미정|미정|
+|8주차|[트리의 부모 찾기](https://www.acmicpc.net/problem/11725)<img src="https://img.shields.io/badge/S2-435f7a?">, [완전 이진 트리](https://www.acmicpc.net/problem/9934)<img src="https://img.shields.io/badge/S1-435f7a?">, [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)<img src="https://img.shields.io/badge/Lv.3-ff9800?"/>|06/27 ~ 07/03|<img src="https://img.shields.io/badge/완료-50bcdf?"/>
+|9주차| [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)<img src="https://img.shields.io/badge/Lv.1-4caf50?"/>, [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)<img src="https://img.shields.io/badge/Lv.1-4caf50?"/>, [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)<img src="https://img.shields.io/badge/Lv.1-4caf50?"/> |07/04 ~ 07/10|<img src="https://img.shields.io/badge/완료-50bcdf?"/>|
+|10주차|[회의실 배정](https://www.acmicpc.net/problem/1931)<img src="https://img.shields.io/badge/S1-435f7a?">, [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)<img src="https://img.shields.io/badge/Lv.1-4caf50?"/>, [방금 그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)<img src="https://img.shields.io/badge/Lv.2-ffc107?"/>|07/11 ~ 07/17|<img src="https://img.shields.io/badge/진행중-808080?"/>
+|11주차|미정|미정|미정|
